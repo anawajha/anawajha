@@ -63,7 +63,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
-
+<p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anawajha&show_icons=true&locale=en&layout=compact" alt="Asad's top languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anawajha&show_icons=true&locale=en" alt="anawajha" /></p>
+</p>
