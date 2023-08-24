@@ -29,6 +29,8 @@
 	<a target="_blank" href="https://wa.me/+972592686823"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
 </div>
 
+<br>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/anawajha/count.svg" />
