@@ -9,18 +9,13 @@
 
 ## Activity & Statistics:
  ### Streak Stats:
- <p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anawajha&theme=react)
- </p>
+
 ### Activity
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anawajha&show_icons=true&theme=react)
-</p>
 
 ### Languages
-<p align="center">
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anawajha&layout=compact&theme=react)
-</p>
 </div>
 
 ## Languages & Tools:
