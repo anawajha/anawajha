@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anawajha&show_icons=true&locale=en&layout=compact" alt="Asad's top languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anawajha&show_icons=true&locale=en&layout=compact" alt="Asad's top languages" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anawajha&show_icons=true&locale=en" alt="anawajha" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anawajha&show_icons=true&locale=en" alt="anawajha" /></p>
 </div>
