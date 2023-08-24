@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Flutter**
 
 
-  <br/>
+<br/>
 
 
 ## Activity & Statistics:
@@ -20,7 +20,7 @@
 </div>
 
 ## Languages & Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,angular,cs,dotnet,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postgres,postman,powershell,ts,eclipse,blender,bash,androidstudio,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,wordpress,visualstudio,unity,swift)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postman,powershell,eclipse,blender,bash,androidstudio,android,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,unity,swift)](https://skills.thijs.gg)
 
 <p align="center"> 
   Visitor count<br>
@@ -28,11 +28,6 @@
 </p>
 
 <br/>
-<!--
-
-- 📫 How to reach me **anawajha@icloud.com**
-- 📄 Know about my experiences [link](link)
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
