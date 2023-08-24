@@ -20,15 +20,20 @@
 </div>
 
 ## Languages & Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postman,powershell,eclipse,blender,bash,androidstudio,android,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,unity,swift)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postman,powershell,blender,bash,androidstudio,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,unity,swift)](https://skills.thijs.gg)
+
+</div>
+
+## Languages & Tools:
+<p align="center">
+	<a target="_blank" href="mailto:asaad2686823@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/anawajha/"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a target="_blank" href="https://wa.me/+972592686823"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
+
+ 
+</div>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/anawajha/count.svg" />
 </p>
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anawajha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asad's LinkedIn" height="30" width="30" /></a>
