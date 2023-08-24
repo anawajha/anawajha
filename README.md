@@ -27,8 +27,6 @@
 	<a target="_blank" href="mailto:asaad2686823@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
 	<a target="_blank" href="https://www.linkedin.com/in/anawajha/"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
 	<a target="_blank" href="https://wa.me/+972592686823"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
-
- 
 </div>
 
 <p align="center"> 
