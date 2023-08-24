@@ -9,22 +9,27 @@
 
 ## Activity & Statistics:
  ### Streak Stats:
+ <p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anawajha&theme=react)
-
+ </p>
 ### Activity
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anawajha&show_icons=true&theme=react)
+</p>
 
 ### Languages
+<p align="center">
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anawajha&layout=compact&theme=react)
-
+</p>
 </div>
 
 ## Languages & Tools:
+<p align="center">
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postman,powershell,blender,bash,androidstudio,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,unity,swift)](https://skills.thijs.gg)
-
+</p>
 </div>
 
-## Languages & Tools:
+## Connect with me:
 <p align="center">
 	<a target="_blank" href="mailto:asaad2686823@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
 	<a target="_blank" href="https://www.linkedin.com/in/anawajha/"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
