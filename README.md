@@ -9,17 +9,17 @@
 
 ## Activity & Statistics:
  ### Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anawajha&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anawajha&theme=dark)
 
 ### Activity
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anawajha&show_icons=true&theme=react)
 -->
-![Asad's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anawajha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+![Asad's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anawajha&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
 ### Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anawajha&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anawajha&layout=compact&theme=dark)
 </div>
 
 ## Languages & Tools:
